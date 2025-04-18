@@ -1,5 +1,3 @@
 from math import factorial
 
-n = int(input('輸入一個數: '))
-
-print(factorial(n))
+print(factorial(int(input('輸入要計算n!的值')))
